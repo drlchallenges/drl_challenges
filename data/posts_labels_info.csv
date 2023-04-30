@@ -1,0 +1,945 @@
+post_id,accepted_answer_id,label_high,label_low,post_date,receive_answer_duration
+56447589,56453315,dl issues,dl frameworks,2019,34728
+56650573,56859618,drl issues,reward,2019,1233900
+70562317,70568519,drl issues,action,2022,35095
+54870581,54873357,drl issues,comprehension,2019,11022
+56312962,56318256,drl issues,comprehension,2019,46054
+56730118,56765796,drl issues,comprehension,2019,174198
+61708729,61747498,dl issues,dl frameworks,2020,176706
+65029828,65108767,drl issues,policy's loss,2020,485880
+71419306,71488678,drl issues,comprehension,2022,482134
+55673412,55673559,other programming problems,,2019,1252
+44926583,45047565,drl issues,policy's loss,2017,569552
+72629938,72636494,other programming problems,,2022,29531
+66930752,66934727,other programming problems,,2021,25408
+66930752,66934727,drl issues,design problem,2021,25408
+68269032,68357354,drl issues,hyperparameters,2021,589065
+61370115,74148819,dl issues,model,2020,78754454
+73614535,73614644,other programming problems,,2022,863
+73986812,74043115,other programming problems,,2022,439208
+74001586,74107001,other programming problems,,2022,797679
+64956763,64961297,dl issues,model,2020,29655
+64866833,64875762,not real drl,remove,2020,51132
+65087009,65113100,dl issues,model,2020,118605
+61178239,61178262,other programming problems,,2020,1260
+65152599,65157482,dl issues,model,2020,46824
+64566325,65263689,drl library/framework,api usage,2020,3913016
+59350679,59443119,drl issues,comprehension,2019,536158
+60406081,60407336,not real drl,remove,2020,9244
+59848545,59869307,drl issues,comprehension,2020,95434
+61169488,61169904,drl issues,design problem,2020,2218
+64848622,64854430,dl issues,data preprocessing,2020,46816
+65198501,65742611,drl issues,design problem,2020,3311065
+64799299,65263488,drl library/framework,api usage,2020,2601621
+67185851,67236329,other programming problems,,2021,258678
+62039376,62041066,drl issues,comprehension,2020,5337
+65635342,65650938,drl issues,comprehension,2021,128768
+59943167,59978507,drl issues,comprehension,2020,160558
+63328885,66834414,drl issues,comprehension,2020,19876244
+65636703,65639193,drl issues,comprehension,2021,22811
+60447432,60504590,other programming problems,,2020,353002
+62001967,62026073,drl issues,comprehension,2020,100091
+63408505,65742877,drl library/framework,api usage,2020,13354064
+67773479,67775247,drl issues,comprehension,2021,6694
+64690471,64755558,drl issues,state/observation,2020,395695
+66326130,66391403,dl issues,model,2021,319363
+66008062,66030093,drl issues,design problem,2021,101870
+70861260,70927326,drl library/framework,best fitted library for a special task,2022,448245
+72554263,72625097,dl issues,data preprocessing,2022,514214
+72564316,72872886,drl issues,comprehension,2022,2243791
+62535763,62536051,drl issues,comprehension,2020,935
+70382999,70405951,drl issues,hyperparameters,2021,177145
+73162598,73162737,parallel processing & multi threading,gpu usage,2022,825
+71558407,71579947,other programming problems,,2022,120846
+71897010,71903002,dl issues,model,2022,69663
+71897010,71903002,drl issues,comprehension,2022,69663
+71598690,71611353,drl issues,design problem,2022,65640
+58440479,58442845,not real drl,remove,2019,18037
+60869267,60870380,dl issues,model,2020,3453
+59542414,59542686,not real drl,remove,2019,1339
+46244514,46260427,not real drl,remove,2017,124640
+42875684,42913086,drl issues,comprehension,2017,192912
+67458325,67458685,not real drl,remove,2021,2279
+44045999,44320095,other programming problems,,2017,1266831
+50964051,51046737,drl issues,comprehension,2018,457250
+68674852,68686830,dl issues,model,2021,69052
+63195873,64822022,dl issues,dl frameworks,2020,9065123
+34703423,34703481,not real drl,remove,2016,486
+51510460,55908555,drl issues,comprehension,2018,24070648
+48111120,48288434,parallel processing & multi threading,distributed processing,2018,984393
+48191567,48247428,not real drl,remove,2018,313411
+66028677,66031189,not real drl,remove,2021,8668
+49585432,50606547,parallel processing & multi threading,multithreading,2018,5206736
+52334685,52336461,dl issues,model,2018,7198
+3800853,3806611,drl issues,comprehension,2010,54385
+56777123,56777763,drl issues,comprehension,2019,2648
+39932611,39934348,drl issues,comprehension,2016,10588
+45161016,45204475,drl issues,comprehension,2017,155095
+49985848,49989745,drl issues,design problem,2018,15638
+37973108,37973461,drl issues,comprehension,2016,1112
+46783760,46787296,drl issues,comprehension,2017,12287
+39848984,39916222,drl issues,comprehension,2016,266003
+50581232,50581688,drl issues,comprehension,2018,1383
+34692318,34776449,dl issues,model,2016,381765
+62020946,64217061,dl issues,model,2020,11445202
+50530546,50530559,drl issues,comprehension,2018,34
+50542818,50542822,not real drl,remove,2018,26
+56816743,56817130,drl issues,comprehension,2019,3619
+56827875,60745714,drl library/framework,api usage,2019,22630328
+52950547,52950774,other programming problems,,2018,665
+55986261,55986373,drl library/framework,installation,2019,1008
+68818941,68986218,drl library/framework,installation,2021,1126028
+57019490,57125317,drl library/framework,dependency,2019,606747
+57174727,57218030,drl issues,comprehension,2019,198332
+55317749,55318251,drl library/framework,api usage,2019,3558
+55313995,55326861,other programming problems,,2019,104511
+58041151,58041619,drl library/framework,dependency,2019,3785
+58306485,58435584,drl library/framework,best fitted library for a special task,2019,693151
+58551029,60792871,drl library/framework,api usage,2019,12855367
+60113091,60117462,drl library/framework,dependency,2020,16151
+59944537,59945547,other programming problems,,2020,4177
+60129007,60129679,drl issues,design problem,2020,4452
+56514941,56876122,drl library/framework,api usage,2019,2092251
+41975983,41979384,dl issues,model,2017,9932
+42787924,42802225,drl library/framework,api usage,2017,58467
+58836093,58841279,drl library/framework,api usage,2019,17432
+43854157,43873915,drl issues,comprehension,2017,77834
+44469266,44681040,other programming problems,,2017,994920
+55955630,55977591,drl library/framework,api usage,2019,110414
+61874880,61884257,other programming problems,,2020,47239
+61893677,61894011,drl library/framework,api usage,2020,978
+56727832,59644786,drl library/framework,installation,2019,17161201
+46762083,46790472,drl library/framework,api usage,2017,123793
+44777068,45175415,drl issues,action,2017,1849292
+44874198,45215404,drl issues,design problem,2017,1533521
+62397819,62398655,drl library/framework,api usage,2020,4909
+64773220,64857111,drl issues,environment,2020,498710
+45493987,47093917,drl issues,comprehension,2017,7913899
+44252741,44279499,drl library/framework,problems inside framework,2017,106046
+44870717,45428893,drl library/framework,dependency,2017,2563285
+65338895,65343913,drl library/framework,api usage,2020,19119
+65343997,65344326,other programming problems,,2020,1213
+65389349,65943940,drl library/framework,api usage,2020,3323971
+74410196,74424489,drl issues,design problem,2022,147167
+56282507,56302384,drl issues,comprehension,2019,122753
+65333060,65356962,drl issues,environment,2020,129192
+69891729,69892224,other programming problems,,2021,5181
+54259943,54261003,other programming problems,,2019,5499
+54322590,54444618,drl library/framework,api usage,2019,633010
+54259338,56561457,drl library/framework,api usage,2019,12501571
+54385568,54432783,drl issues,hyperparameters,2019,247424
+70261352,70461422,drl library/framework,dependency,2021,1373224
+54166346,54168517,drl issues,comprehension,2019,22203
+54372092,62997234,drl library/framework,dependency,2019,46803790
+70131381,70133119,other programming problems,,2021,25716
+54121047,54285312,parallel processing & multi threading,multiprocessing,2019,969935
+54661185,54661689,drl library/framework,dependency,2019,4159
+54726239,54727594,other programming problems,,2019,9492
+70468394,70477435,other programming problems,,2021,91260
+55187826,55190541,drl issues,comprehension,2019,12685
+74637712,74663320,drl library/framework,api usage,2022,155466
+70550623,70550719,drl library/framework,installation,2022,795
+54981988,56627995,drl issues,comprehension,2019,9060719
+70556522,70556642,other programming problems,,2022,1127
+55006689,56659969,drl library/framework,api usage,2019,9113014
+61043973,61044062,drl library/framework,api usage,2020,376
+41009105,41011129,drl library/framework,dependency,2016,10803
+43718347,43741074,parallel processing & multi threading,multithreading,2017,98921
+44404281,44404347,drl library/framework,api usage,2017,337
+44409176,49088439,drl library/framework,dependency,2017,23280684
+59589776,59729706,drl issues,design problem,2020,856276
+41193650,43859937,drl library/framework,installation,2016,12362818
+59590152,59590153,other programming problems,,2020,0
+48778899,48795754,drl library/framework,installation,2018,64088
+56533094,56534016,drl issues,environment,2019,5366
+56584975,56629090,parallel processing & multi threading,gpu usage,2019,322500
+48861523,48868076,drl library/framework,api usage,2018,23348
+56633955,56747635,drl library/framework,api usage,2019,658407
+49203023,49205552,drl library/framework,dependency,2018,24489
+46662829,46663968,drl library/framework,api usage,2017,3164
+46662829,46663968,other programming problems,,2017,3164
+46597809,50303347,dl issues,model,2017,18844615
+64588828,66471598,drl library/framework,api usage,2020,10885877
+56904270,56926451,drl library/framework,api usage,2019,202917
+57263759,57283046,drl library/framework,api usage,2019,90488
+57356257,57386909,drl library/framework,api usage,2019,152455
+44100977,44144498,not real drl,remove,2017,176544
+57839665,57849327,drl library/framework,api usage,2019,88982
+57967451,57968475,drl library/framework,api usage,2019,6324
+58210563,58220254,other programming problems,,2019,50433
+56964657,58730298,drl issues,hyperparameters,2019,10306709
+57105073,57111651,drl library/framework,api usage,2019,29553
+58224472,58237398,drl library/framework,dependency,2019,70490
+58094934,58524607,other programming problems,,2019,2436726
+63079830,63236529,not real drl,remove,2020,869769
+63111050,63352539,drl library/framework,api usage,2020,1289944
+49637378,49678668,drl library/framework,api usage,2018,168987
+58109587,62156396,other programming problems,,2019,21641980
+58256345,58257398,drl library/framework,api usage,2019,8703
+45068568,47132897,drl library/framework,api usage,2017,10062899
+58225719,58243229,not real drl,remove,2019,92420
+49737552,49760991,other programming problems,,2018,94866
+50041271,50047986,drl issues,reward,2018,19941
+50481591,50493740,drl issues,design problem,2018,36467
+50440522,50452826,not real drl,remove,2018,57668
+50125950,50180236,drl library/framework,api usage,2018,230463
+41502795,41503352,drl library/framework,dependency,2017,1946
+59879297,59894667,drl library/framework,api usage,2020,77185
+41137192,42570586,drl library/framework,installation,2016,6813504
+59889597,59889907,not real drl,remove,2020,3068
+40509002,40533076,drl library/framework,installation,2016,96253
+62334284,62363354,drl library/framework,problems inside framework,2020,156353
+62108063,63091570,dl issues,model,2020,4829883
+62354041,62357583,drl library/framework,dependency,2020,32473
+63169669,63213777,other programming problems,,2020,256228
+62341103,66892463,drl library/framework,api usage,2020,25258553
+63959994,63962844,other programming problems,,2020,14585
+63963532,63963653,drl library/framework,api usage,2020,1077
+62303994,62306159,drl library/framework,api usage,2020,6250
+58941164,58976547,drl issues,environment,2019,153996
+58974034,58976751,drl library/framework,api usage,2019,8863
+41092355,41127535,drl library/framework,api usage,2016,152123
+65692797,65735624,drl issues,comprehension,2021,222069
+59517122,59519421,drl library/framework,api usage,2019,24386
+50541672,50543086,not real drl,remove,2018,9966
+59530490,59530657,drl issues,environment,2019,751
+49346051,49346799,drl issues,environment,2018,5642
+50615201,50615402,other programming problems,,2018,2085
+59813509,59827738,drl library/framework,api usage,2020,77652
+67316491,67331064,drl issues,action,2021,77653
+60268769,60277319,drl library/framework,installation,2020,51600
+59997727,60184677,drl library/framework,api usage,2020,1054753
+42605769,43283856,drl library/framework,installation,2017,2882694
+60911279,61020203,drl library/framework,api usage,2020,480284
+61217265,61243168,other programming problems,,2020,115845
+61163513,61170486,other programming problems,,2020,51768
+44389007,45130447,drl library/framework,api usage,2017,3470857
+50845926,50849216,drl library/framework,installation,2018,24860
+67626206,67628238,other programming problems,,2021,10917
+51040303,51040386,drl library/framework,installation,2018,229
+47615458,47622125,drl library/framework,dependency,2017,50291
+44369938,57329702,drl issues,design problem,2017,68091713
+67087799,67087909,drl library/framework,api usage,2021,473
+67628686,67629572,drl library/framework,api usage,2021,8859
+48531314,49056767,not real drl,remove,2018,2580392
+68954703,71053783,other programming problems,,2021,14357169
+53228886,53229094,drl library/framework,api usage,2018,705
+62586436,62638151,drl issues,comprehension,2020,300597
+69035664,69251846,drl library/framework,best fitted library for a special task,2021,1520693
+45263566,46301033,drl library/framework,dependency,2017,5023345
+53194107,53241029,drl issues,environment,2018,258235
+45886398,46256795,other programming problems,,2017,1903213
+62982340,62982497,drl issues,comprehension,2020,880
+64639554,64641092,not real drl,remove,2020,11592
+46997041,46997332,other programming problems,,2017,3312
+65918970,65919082,drl library/framework,api usage,2021,459
+66030450,66034235,drl library/framework,api usage,2021,14088
+51180689,51181803,dl issues,dl frameworks,2018,9600
+67690650,67692410,drl library/framework,api usage,2021,6735
+51704944,51722127,drl library/framework,installation,2018,80837
+51978282,52175371,drl library/framework,api usage,2018,1107518
+52061122,53308763,drl issues,design problem,2018,6764488
+51725932,51728405,dl issues,model,2018,7654
+68072941,68086057,drl library/framework,dependency,2021,74450
+48980368,48989130,drl library/framework,api usage,2018,40315
+67674324,67679481,drl issues,state/observation,2021,25812
+49035549,49035950,drl issues,comprehension,2018,1659
+49035549,49035950,dl issues,model,2018,1659
+66363245,66363576,drl library/framework,api usage,2021,1943
+66418231,66433159,drl issues,design problem,2021,73369
+52040325,52229881,drl library/framework,dependency,2018,980252
+52727233,52739974,drl library/framework,api usage,2018,63782
+67000544,67003580,other programming problems,,2021,11171
+49621599,49623000,dl issues,data preprocessing,2018,9313
+52173787,52174002,drl library/framework,installation,2018,1200
+52240631,52262568,drl issues,design problem,2018,142921
+67874282,67879834,other programming problems,,2021,30468
+52452838,52452968,drl library/framework,installation,2018,1495
+67905871,67970195,drl library/framework,api usage,2021,425710
+52280897,55246234,other programming problems,,2018,16328881
+52774793,52774794,drl library/framework,api usage,2018,0
+70858340,71030321,drl library/framework,api usage,2022,1139836
+53382095,53401541,drl library/framework,api usage,2018,89005
+53304915,53319815,other programming problems,,2018,72498
+53570723,53641667,drl issues,environment,2018,381516
+53574578,53901768,dl issues,model,2018,1852964
+69442971,69443797,drl library/framework,installation,2021,9255
+53712923,53752962,other programming problems,,2018,184781
+53656280,53721828,other programming problems,,2018,407651
+69520829,69534749,not real drl,remove,2021,84987
+53836136,53850600,drl library/framework,api usage,2018,73694
+54022606,54583789,drl library/framework,api usage,2019,3061716
+54047654,58108015,dl issues,dl frameworks,2019,22807482
+69873630,69873671,drl library/framework,installation,2021,234
+55341996,55350702,drl library/framework,api usage,2019,49822
+69841193,69841730,dl issues,data preprocessing,2021,2146
+55531883,55532101,other programming problems,,2019,730
+55679861,55680940,other programming problems,,2019,10004
+55782658,55821571,drl library/framework,api usage,2019,224016
+55835318,56028322,drl library/framework,installation,2019,1126773
+71437246,71509145,drl issues,design problem,2022,506937
+71498764,71502739,other programming problems,,2022,15703
+71656396,72443481,drl library/framework,api usage,2022,5453016
+71575887,71615697,drl issues,comprehension,2022,237627
+71625570,71626567,drl library/framework,api usage,2022,11650
+71626453,71907547,drl issues,environment,2022,1971933
+71700563,71723001,other programming problems,,2022,186629
+71786530,71831080,drl issues,environment,2022,341442
+71933644,71950845,other programming problems,,2022,103954
+71973392,72001691,drl library/framework,dependency,2022,245748
+72089234,72089235,drl library/framework,api usage,2022,0
+72428936,72428960,drl library/framework,problems inside framework,2022,345
+72550211,73275034,other programming problems,,2022,5236994
+72673692,72844035,drl library/framework,api usage,2022,1223951
+72529895,72532957,drl library/framework,api usage,2022,12986
+73111772,73192247,other programming problems,,2022,586054
+73201176,74527912,other programming problems,,2022,9694186
+73308140,73308824,drl library/framework,problems inside framework,2022,2909
+73195438,73195616,drl library/framework,api usage,2022,745
+73262597,73274546,drl library/framework,api usage,2022,132357
+73411966,73453078,other programming problems,,2022,343404
+73667333,73726592,drl library/framework,dependency,2022,467611
+73737008,73994339,other programming problems,,2022,1929350
+73758588,73758682,drl library/framework,api usage,2022,974
+73845576,73850845,drl library/framework,api usage,2022,58958
+73845576,73850845,drl library/framework,dependecny,2022,58958
+74060371,74064722,drl library/framework,api usage,2022,39324
+73916260,73998243,drl library/framework,dependency,2022,637371
+74198765,74201695,other programming problems,,2022,23658
+74338552,74342432,not real drl,remove,2022,41409
+55941463,55944674,drl issues,comprehension,2019,23162
+40896951,41722336,dl issues,model,2016,4215238
+43804248,43812411,drl issues,design problem,2017,27202
+56446445,56450099,not real drl,remove,2019,15875
+57168356,57186335,dl issues,data preprocessing,2019,83136
+45739697,45741073,other programming problems,,2017,4261
+40137792,40138820,drl issues,comprehension,2016,3502
+51069380,51364829,drl issues,design problem,2018,1629001
+53018226,53085844,drl library/framework,api usage,2018,389233
+67630194,67630959,other programming problems,,2021,7651
+27370495,27379795,drl issues,comprehension,2014,38966
+48943191,48944634,drl issues,comprehension,2018,6427
+47378493,47569565,drl issues,comprehension,2017,927847
+42829488,42876405,dl issues,dl frameworks,2017,196895
+53660662,53697265,drl issues,comprehension,2018,258697
+51425688,51426358,drl issues,comprehension,2018,1837
+54173261,54173355,dl issues,model,2019,766
+55800211,55909274,other programming problems,,2019,601751
+58559415,58560622,drl issues,comprehension,2019,4442
+38300193,38302645,dl issues,data preprocessing,2016,9258
+60955922,61006203,drl issues,comprehension,2020,221401
+43536573,43537544,drl issues,comprehension,2017,3061
+55473950,55478993,drl issues,comprehension,2019,15328
+50989406,51409138,drl issues,reward,2018,2264880
+47685341,47697583,dl issues,model,2017,54164
+67738099,70704158,drl library/framework,api usage,2021,19916719
+67777471,67813891,drl library/framework,api usage,2021,199553
+50001520,50166602,drl issues,design problem,2018,831296
+68835417,68891183,drl library/framework,api usage,2021,414153
+70340806,70463589,drl library/framework,api usage,2021,841389
+73723103,73811374,drl issues,comprehension,2022,645439
+61058333,61168375,other programming problems,,2020,506849
+56446182,56446304,drl issues,comprehension,2019,371
+56182236,56182586,drl library/framework,api usage,2019,1335
+57104436,57237953,other programming problems,,2019,788896
+59682542,59745136,drl library/framework,dependency,2020,399957
+63555612,63571706,not real drl,remove,2020,77025
+60171887,60173136,dl issues,data preprocessing,2020,3984
+59861818,59863973,drl library/framework,dependency,2020,6697
+47140642,47140848,drl library/framework,api usage,2017,580
+58156384,58277912,other programming problems,,2019,718241
+52734928,52735507,dl issues,dl frameworks,2018,2192
+65897335,65937743,not real drl,remove,2021,193178
+55119291,55119429,drl library/framework,installation,2019,408
+67908668,67916231,dl issues,dl frameworks,2021,50322
+57813278,57813489,other programming problems,,2019,1601
+50803778,50810239,drl issues,design problem,2018,42880
+42606589,42620948,drl issues,comprehension,2017,83625
+45542902,48705375,drl issues,hyperparameters,2017,16085473
+65668160,66160672,drl library/framework,api usage,2021,2694982
+63218710,63238112,other programming problems,,2020,108747
+62405053,62407299,drl issues,environment,2020,7728
+56153309,56157184,parallel processing & multi threading,multithreading,2019,16703
+56868307,56924915,drl issues,comprehension,2019,373190
+55943678,55948320,drl issues,comprehension,2019,34175
+68342446,68342485,dl issues,model,2021,307
+58693786,58693947,dl issues,dl frameworks,2019,638
+61626080,61641475,drl issues,design problem,2020,55966
+37973005,37974356,dl issues,model,2016,4274
+44747216,44750593,drl issues,design problem,2017,24521
+43382046,43406410,drl issues,design problem,2017,105209
+65291261,65303458,dl issues,dl frameworks,2020,67658
+65359792,65373575,other programming problems,,2020,99625
+54654641,54663971,drl issues,design problem,2019,50534
+60753759,60755822,dl issues,model,2020,7453
+70808035,70936907,dl issues,data preprocessing,2022,898462
+70199324,70199445,other programming problems,,2021,509
+54688502,54688983,dl issues,model,2019,1392
+70756617,70769329,not real drl,remove,2022,76043
+59592009,59599208,other programming problems,,2020,71441
+47976845,47979477,drl issues,comprehension,2017,13337
+61574690,61574737,drl library/framework,installation,2020,176
+47840527,48791563,dl issues,dl frameworks,2017,5248808
+65521485,65526528,dl issues,dl frameworks,2020,40056
+49673515,49675186,dl issues,data preprocessing,2018,4808
+65237345,65239050,dl issues,model,2020,6429
+58110466,62046758,drl issues,policy's loss,2019,21115200
+46455176,46458768,dl issues,model,2017,17284
+45060530,47339348,drl issues,comprehension,2017,11001486
+59585026,59803495,drl issues,comprehension,2020,1287540
+58509177,58509842,dl issues,data preprocessing,2019,2899
+58949680,58953694,drl issues,design problem,2019,12419
+59093814,59094012,dl issues,dl frameworks,2019,986
+59823099,59823326,dl issues,dl frameworks,2020,831
+65732431,65732504,drl library/framework,api usage,2021,471
+67311128,67343177,dl issues,model,2021,175885
+60998288,60999317,drl library/framework,api usage,2020,3609
+47643678,47655115,drl issues,comprehension,2017,51241
+64863256,64873414,dl issues,dl frameworks,2020,59210
+68978463,68979613,dl issues,data preprocessing,2021,12474
+65743558,65749350,other programming problems,,2021,53196
+66268742,66366863,dl issues,dl frameworks,2021,563887
+52277003,52288098,dl issues,dl frameworks,2018,58186
+52396257,52396304,drl issues,comprehension,2018,474
+52237609,52238710,not real drl,remove,2018,7982
+54053848,54057629,drl library/framework,api usage,2019,29587
+55602633,55901691,other programming problems,,2019,1682302
+55754315,55873230,dl issues,model,2019,678089
+71894769,71894956,dl issues,model,2022,1473
+71488360,71488454,not real drl,remove,2022,602
+72332126,72336841,drl issues,design problem,2022,59543
+71978756,71978964,drl library/framework,api usage,2022,1941
+71978756,71978964,dl issues,model,2022,1941
+72392440,72418339,dl issues,dl frameworks,2022,192148
+72642300,72647405,drl library/framework,dependency,2022,23234
+70851935,73051479,other programming problems,,2022,15188636
+56998397,57019226,drl issues,policy's loss,2019,134521
+65653439,67736781,drl library/framework,api usage,2021,11909546
+55839974,55842813,drl issues,design problem,2019,22873
+40487721,40487948,drl issues,action,2016,696
+37638751,37639537,drl issues,comprehension,2016,7764
+533960,641231,other programming problems,,2009,2610392
+38149338,38159744,drl issues,design problem,2016,71864
+56384233,56396305,drl issues,reward,2019,67164
+1542690,1558387,drl issues,design problem,2009,333970
+1542690,1558387,drl issues,comprehension,2009,333970
+46260775,46265324,drl issues,comprehension,2017,35574
+64349126,64402160,other programming problems,,2020,272770
+11846387,11853400,drl issues,action,2012,26789
+43881897,43956736,drl issues,design problem,2017,323918
+43881897,43956736,drl issues,comrehension,2017,323918
+43884495,43886524,drl issues,comprehension,2017,7251
+56238007,56243204,drl issues,comprehension,2019,17594
+56016016,56018458,drl issues,reward,2019,11059
+44157418,44172980,drl issues,comprehension,2017,64261
+44118627,44118719,other programming problems,,2017,368
+6699222,6700522,not real drl,remove,2011,7694
+60566382,60569835,drl issues,design problem,2020,14046
+24392268,28437820,not real drl,remove,2014,19963399
+61055924,61134289,drl issues,design problem,2020,332369
+6726055,6727478,drl issues,comprehension,2011,16063
+61076973,61621498,drl issues,design problem,2020,2454948
+61367054,61428048,drl issues,reward,2020,264334
+9010576,9012260,drl issues,comprehension,2012,9156
+56091464,56100724,drl issues,design problem,2019,88408
+38009309,38621430,dl issues,model,2016,2888600
+56309064,56317871,drl issues,comprehension,2019,88488
+56309064,56317871,drl issues,design problem,2019,88488
+19470745,19768210,drl issues,comprehension,2013,1359322
+43611944,43624893,drl issues,comprehension,2017,53292
+37922621,37938427,drl issues,comprehension,2016,69475
+49401486,49402646,drl issues,comprehension,2018,3594
+66622216,68614196,drl library/framework,api usage,2021,12142069
+49956690,49956797,drl issues,comprehension,2018,806
+67089715,67090360,other programming problems,,2021,2721
+49451366,49451735,drl issues,design problem,2018,1106
+49961516,49965160,drl issues,comprehension,2018,36466
+31494361,31724056,drl issues,comprehension,2015,1015129
+50874363,50875141,not real drl,remove,2018,2937
+50905635,51435734,drl issues,design problem,2018,2753783
+50910555,50912240,dl issues,model,2018,5338
+67789148,67794693,drl issues,hyperparameters,2021,22804
+53864434,53871660,drl issues,comprehension,2018,27860
+53937461,53937540,not real drl,remove,2018,555
+53923388,53928052,dl issues,model,2018,54840
+48011874,48020259,drl issues,comprehension,2017,56845
+52462073,52529309,drl issues,design problem,2018,357363
+1620335,1620415,drl issues,design problem,2009,2446
+68782353,68782489,drl issues,comprehension,2021,1285
+54494160,54571154,drl issues,design problem,2019,415968
+68847879,68866855,not real drl,remove,2021,109321
+54519830,54556448,drl issues,comprehension,2019,169034
+54678896,54684415,other programming problems,,2019,36002
+54759093,55504309,drl issues,comprehension,2019,3769959
+54759181,54765538,drl issues,comprehension,2019,23850
+54734556,54751920,dl issues,model,2019,92494
+69134882,69138177,drl issues,reward,2021,20127
+69181347,71834659,drl library/framework,api usage,2021,18077114
+54849812,54850936,drl issues,comprehension,2019,9798
+69217296,69217918,other programming problems,,2021,6195
+73754505,73836667,drl library/framework,api usage,2022,602482
+73798095,74085034,drl issues,comprehension,2022,2150508
+73802653,73805224,drl issues,design problem,2022,12768
+73921013,73921489,dl issues,dl frameworks,2022,4743
+74168655,74252933,drl library/framework,api usage,2022,632464
+74214034,74215692,drl issues,comprehension,2022,15603
+74103447,74110563,drl library/framework,api usage,2022,51920
+74138999,74140926,drl issues,reward,2022,8644
+74444263,74444506,other programming problems,,2022,1132
+74464029,74464151,other programming problems,,2022,563
+56270347,56300549,drl issues,comprehension,2019,143793
+10722064,10722300,drl issues,comprehension,2012,859
+48312854,48554288,drl issues,policy's loss,2018,1208781
+13343336,13463887,drl issues,design problem,2012,644308
+51036420,51045893,other programming problems,,2018,29539
+50037674,50096884,drl library/framework,dependency,2018,348393
+18720247,18727213,drl issues,comprehension,2013,21381
+32846262,33363323,drl issues,comprehension,2015,2399576
+22537246,22554601,drl issues,reward,2014,65195
+40910757,40928030,drl issues,comprehension,2016,73005
+29904270,30011176,drl issues,comprehension,2015,474133
+29978406,30017803,drl issues,comprehension,2015,247604
+13981880,15362341,drl issues,comprehension,2012,7046267
+48878053,48880275,dl issues,dl frameworks,2018,11240
+6085691,6085987,drl issues,comprehension,2011,6068
+60720154,60720195,other programming problems,,2020,194
+61556374,61599551,drl issues,comprehension,2020,210916
+37803003,37824823,not real drl,remove,2016,76993
+8091877,8093536,drl issues,comprehension,2011,8724
+55963251,55965588,other programming problems,,2019,13155
+56103110,56109540,not real drl,remove,2019,47831
+56104472,56113154,drl library/framework,api usage,2019,47037
+56234489,56663947,drl issues,state/observation,2019,2506746
+56535491,56538600,drl issues,policy's loss,2019,19745
+56270744,56288879,drl issues,comprehension,2019,88262
+56541683,56887299,dl issues,model,2019,1992011
+1730824,1731170,drl issues,comprehension,2009,4596
+57198765,57216349,drl issues,design problem,2019,83527
+38988582,47333847,drl issues,comprehension,2016,39439940
+57603707,57605907,dl issues,dl frameworks,2019,8005
+57106676,58752611,drl issues,hyperparameters,2019,9628574
+57724414,57762933,drl library/framework,api usage,2019,301896
+740389,742889,not real drl,remove,2009,122403
+56296626,56298077,drl issues,comprehension,2019,7138
+56168830,56225354,drl issues,comprehension,2019,361399
+56456148,56457923,drl issues,design problem,2019,6875
+56506937,56508859,drl library/framework,api usage,2019,15341
+27293219,27293543,drl issues,comprehension,2014,869
+56624332,56634362,drl issues,comprehension,2019,43532
+56344773,70138503,drl issues,design problem,2019,78994222
+63635815,63724151,drl library/framework,api usage,2020,512613
+56838708,56842785,drl issues,reward,2019,20766
+45937774,46001664,drl issues,comprehension,2017,268286
+63602222,64514982,drl issues,policy's loss,2020,5092412
+56697930,56700571,drl issues,comprehension,2019,11009
+56697930,56700571,drl issues,design problem,2019,11009
+56700948,56766128,drl library/framework,api usage,2019,418230
+56763327,56765670,drl library/framework,best fitted library for a special task,2019,20384
+64013919,64016647,drl issues,action,2020,11534
+59510603,59518059,dl issues,data preprocessing,2019,76435
+22935418,22935684,drl issues,comprehension,2014,634
+5010247,5011476,drl issues,design problem,2011,9785
+28021734,28022044,drl issues,comprehension,2015,999
+41505285,41510369,drl issues,comprehension,2017,17341
+65551065,65830102,not real drl,remove,2021,1556335
+23172250,23246092,drl issues,design problem,2014,336825
+49615100,49615786,other programming problems,,2018,2969
+59792100,59804130,drl issues,design problem,2020,94658
+5215856,6866152,drl issues,design problem,2011,12413524
+41791932,41792802,drl issues,state/observation,2017,4747
+60021599,60021962,drl issues,comprehension,2020,3413
+59769111,60033725,drl issues,comprehension,2020,1533275
+49691932,49692864,other programming problems,,2018,3223
+31208655,31212105,drl issues,comprehension,2015,13825
+42224533,42259329,drl issues,reward,2017,119971
+8801136,8920156,drl issues,comprehension,2012,749756
+8776230,8776257,drl issues,design problem,2012,411
+8804768,8947501,drl issues,comprehension,2012,886034
+8828637,8829620,drl issues,design problem,2012,9756
+61898668,61901561,not real drl,remove,2020,11299
+43848376,43883405,drl issues,design problem,2017,140667
+63139124,63139220,drl issues,comprehension,2020,424
+45377404,45391630,drl issues,comprehension,2017,90141
+62674505,62676198,drl issues,comprehension,2020,5983
+45390903,46268748,drl issues,design problem,2017,4339465
+45382763,45468784,drl issues,comprehension,2017,421992
+45382763,45468784,drl issues,design problem,2017,421992
+63203574,63203783,drl issues,comprehension,2020,1586
+10793034,10816320,other programming problems,,2012,115601
+45768126,45787264,other programming problems,,2017,145774
+38228574,38232331,drl issues,comprehension,2016,12618
+56520232,56663425,drl issues,comprehension,2019,795528
+56926882,56930366,other programming problems,,2019,29546
+57010404,57044636,drl issues,design problem,2019,264935
+20135529,20137282,other programming problems,,2013,10915
+1844178,1844231,drl issues,comprehension,2009,869
+15693545,15711329,dl issues,model,2013,79704
+50098096,50102489,drl issues,comprehension,2018,15896
+2929023,2936120,drl issues,comprehension,2010,106531
+21137556,21371808,drl issues,design problem,2014,998523
+57934683,57948296,dl issues,model,2019,125396
+57939611,57941991,other programming problems,,2019,33293
+57231285,57231918,drl issues,comprehension,2019,5035
+1836731,1836820,drl issues,comprehension,2009,1061
+57644787,57653218,drl issues,comprehension,2019,78292
+2723999,2789635,drl library/framework,best fitted library for a special task,2010,851777
+57419989,59067923,drl issues,comprehension,2019,9558293
+2750608,2758125,drl issues,design problem,2010,161409
+1783389,1784316,dl issues,model,2009,8111
+2749498,2916730,drl issues,design problem,2010,2199509
+58004237,58014773,drl issues,policy's loss,2019,37322
+39909340,39910230,drl issues,comprehension,2016,5026
+58547686,58548047,drl issues,design problem,2019,1710
+28082922,28086400,not real drl,remove,2015,12430
+40722683,40755627,drl issues,comprehension,2016,133479
+2846038,2870542,drl issues,comprehension,2010,264701
+2846038,2870542,drl issues,design problem,2010,264701
+64441708,64657666,drl issues,environment,2020,1203854
+28457688,28458869,not real drl,remove,2015,3170
+11327923,11329005,drl issues,design problem,2012,4122
+39316972,39321007,drl issues,comprehension,2016,26954
+57544726,57544974,drl library/framework,api usage,2019,1885
+58033188,58034676,drl issues,comprehension,2019,8325
+11980051,21991709,drl library/framework,api usage,2012,48173477
+28937803,28955191,drl issues,comprehension,2015,64780
+47133913,47134486,drl issues,comprehension,2017,1811
+40121969,40123542,drl issues,comprehension,2016,7361
+58194497,58194591,drl issues,design problem,2019,785
+40006763,40016555,drl issues,state/observation,2016,48950
+58203832,58204012,other programming problems,,2019,672
+40115282,40118060,drl issues,design problem,2016,10107
+40137240,40138043,drl issues,design problem,2016,2917
+58473521,58474081,drl issues,comprehension,2019,3914
+3972812,3972927,not real drl,remove,2010,922
+50189695,50190093,drl issues,comprehension,2018,2620
+50297126,50302177,drl issues,comprehension,2018,31046
+50308750,50308765,other programming problems,,2018,103
+50360618,50360846,drl issues,comprehension,2018,2256
+33011825,45033740,drl issues,comprehension,2015,55477067
+51127979,51130431,drl issues,design problem,2018,22185
+40410384,40455581,drl issues,comprehension,2016,273427
+58447885,58456300,drl library/framework,api usage,2019,32068
+48740685,48749854,other programming problems,,2018,32314
+49037430,49038031,drl library/framework,installation,2018,2667
+65142804,65143609,drl library/framework,installation,2020,3575
+54051499,54078288,drl issues,design problem,2019,191381
+68391465,68400355,other programming problems,,2021,38452
+52376692,52431519,dl issues,model,2018,244645
+65082648,65133173,dl issues,model,2020,246351
+67808779,67821479,dl issues,dl frameworks,2021,73069
+32825178,33351458,drl issues,comprehension,2015,2429542
+67828549,67834113,dl issues,data preprocessing,2021,42422
+36610290,54562773,parallel processing & multi threading,multiprocessing,2016,88907473
+36648996,36672599,drl issues,comprehension,2016,138292
+36822951,36823267,drl issues,design problem,2016,1831
+36812719,36813146,drl issues,comprehension,2016,2119
+36850302,36858619,dl issues,model,2016,41492
+36956906,37026950,drl issues,policy's loss,2016,331530
+70792122,70807448,not real drl,remove,2022,91912
+37023460,37026903,drl issues,comprehension,2016,8900
+70826765,70826903,drl library/framework,api usage,2022,1200
+36994129,37001965,not real drl,remove,2016,33537
+61205082,61263414,dl issues,model,2020,233810
+61215966,61245117,drl issues,design problem,2020,129558
+61231333,61231512,other programming problems,,2020,471
+43426409,43428900,drl issues,design problem,2017,14622
+61495319,61590042,other programming problems,,2020,447321
+40831896,40850664,drl library/framework,api usage,2016,87600
+7507004,7507094,not real drl,remove,2011,529
+40827905,40828943,other programming problems,,2016,7126
+43728781,43755179,drl issues,comprehension,2017,111925
+59448001,62117589,drl issues,reward,2019,13882694
+41242329,41288267,drl issues,comprehension,2016,189323
+61805090,61839363,drl issues,comprehension,2020,161728
+23078806,23079298,drl issues,comprehension,2014,1312
+41459498,41508818,drl issues,comprehension,2017,197125
+59668333,59668622,other programming problems,,2020,973
+59709726,59724748,drl issues,comprehension,2020,72315
+23525804,23632515,drl issues,action,2014,499158
+59947248,59947855,drl issues,comprehension,2020,1978
+23531117,23531418,drl issues,comprehension,2014,2086
+62225037,62225113,other programming problems,,2020,445
+23775766,23954443,dl issues,model,2014,797796
+62208330,62458131,drl library/framework,api usage,2020,1176787
+23559050,24325875,drl issues,comprehension,2014,3641441
+51614542,51629504,not real drl,remove,2018,71177
+34181056,34263310,drl issues,comprehension,2015,414163
+52655995,52665601,drl issues,design problem,2018,50415
+62867291,62905956,dl issues,model,2020,178928
+52682521,52682718,dl issues,model,2018,1395
+62963441,62963673,not real drl,remove,2020,2632
+70605210,70822559,other programming problems,,2022,1482232
+70615514,70637235,dl issues,data preprocessing,2022,166043
+62941625,63040588,drl issues,action,2020,515930
+55245875,55248243,other programming problems,,2019,8564
+46422845,50663200,drl issues,comprehension,2017,21580182
+36160248,36499550,drl issues,comprehension,2016,1453544
+64642712,64642821,drl issues,comprehension,2020,470
+46965925,46970812,drl issues,design problem,2017,27752
+47512110,47579598,drl issues,comprehension,2017,274683
+64649944,64802992,drl issues,comprehension,2020,843832
+40760576,40867590,drl library/framework,api usage,2016,533887
+22572624,22576346,drl issues,action,2014,29190
+59376108,59379506,drl issues,comprehension,2019,12653
+47537563,47553278,drl issues,design problem,2017,69593
+40951613,40963198,drl issues,policy's loss,2016,89642
+59222431,59443160,drl issues,comprehension,2019,1323284
+22805323,22805482,drl issues,comprehension,2014,442
+41317030,41520712,drl issues,comprehension,2016,1171275
+59223646,59223806,not real drl,remove,2019,1748
+22805872,22923101,drl issues,comprehension,2014,476749
+4845489,4846138,drl issues,comprehension,2011,7037
+59425390,59443007,drl issues,comprehension,2019,161203
+59569710,59599319,drl issues,environment,2020,225567
+59582677,59776674,drl issues,design problem,2020,1131763
+5112531,5112552,drl issues,comprehension,2011,211
+5112531,5112552,drl issues,hyperparameters,2011,211
+41684801,41763847,drl issues,reward,2017,315827
+41685575,41715173,drl issues,comprehension,2017,126929
+60139303,60141863,drl issues,comprehension,2020,17277
+42336415,42340666,drl issues,comprehension,2017,18289
+5427188,5735271,drl issues,design problem,2011,2313752
+60164460,60176597,drl issues,comprehension,2020,42961
+42317356,42322260,drl issues,comprehension,2017,30597
+60419966,60428722,drl issues,comprehension,2020,50281
+6542274,6564294,not real drl,remove,2011,235471
+59940538,60330136,drl issues,comprehension,2020,2072814
+60682153,60682640,drl issues,action,2020,3482
+42823213,42827405,drl issues,comprehension,2017,24049
+6848828,6852935,drl issues,comprehension,2011,24802
+60917814,60920003,dl issues,model,2020,10301
+42844728,42884690,other programming problems,,2017,215518
+6910859,6919508,drl issues,comprehension,2011,42283
+45199590,45486387,drl issues,reward,2017,1275586
+61201800,61341123,parallel processing & multi threading,multithreading,2020,618782
+34364246,34368407,drl issues,design problem,2015,35670
+53198503,53202849,drl issues,comprehension,2018,32554
+68070368,68112472,drl library/framework,api usage,2021,236351
+52808170,52879498,drl issues,comprehension,2018,321700
+34536340,34544424,dl issues,dl frameworks,2015,49855
+34553205,34558484,drl issues,comprehension,2016,53195
+52838439,52941588,drl issues,comprehension,2018,569579
+27340967,35667432,dl issues,model,2014,38620512
+60958362,60964859,not real drl,remove,2020,39783
+34445590,34455305,drl library/framework,best fitted library for a special task,2015,57588
+63362078,63362343,other programming problems,,2020,993
+68113725,68114690,drl library/framework,api usage,2021,3979
+68141855,68211567,drl library/framework,api usage,2021,441310
+53307599,53348627,drl issues,comprehension,2018,209690
+53378284,53378514,drl issues,design problem,2018,698
+63728800,64223512,drl issues,design problem,2020,2824313
+46031578,46256607,drl issues,comprehension,2017,1075663
+53403311,53432579,drl issues,state/observation,2018,137398
+23235181,23235578,drl issues,comprehension,2014,1690
+41826887,41915017,drl library/framework,api usage,2017,382095
+42044608,42052804,dl issues,model,2017,66215
+47559290,47559403,drl issues,comprehension,2017,476
+64816793,64816841,drl issues,comprehension,2020,393
+42547787,42548042,drl issues,comprehension,2017,1119
+53429724,53432748,drl issues,comprehension,2018,10389
+47750291,48088365,drl issues,comprehension,2017,2051216
+61149054,61618566,drl library/framework,api usage,2020,2142994
+61162864,61169469,dl issues,data preprocessing,2020,49796
+61162864,61169469,other programming problems,,2020,49796
+61118197,61162133,other programming problems,,2020,206239
+7098625,7100856,drl issues,design problem,2011,14092
+47838665,47840536,drl issues,comprehension,2017,10241
+47933380,50013537,drl library/framework,installation,2017,10728484
+61741641,61772628,drl issues,design problem,2020,124065
+48476039,48476751,drl issues,design problem,2018,5262
+48933294,48964383,drl issues,comprehension,2018,166546
+48495733,48497097,drl issues,comprehension,2018,6072
+48495733,48497097,drl issues,hyperparameter,2018,6072
+65003111,65004129,other programming problems,,2020,3678
+48937434,49068636,drl issues,comprehension,2018,657133
+65177161,65177432,dl issues,model,2020,1772
+65202522,65250561,drl library/framework,api usage,2020,242611
+65243290,65245472,other programming problems,,2020,18146
+65282936,65877186,drl issues,comprehension,2020,3618079
+47287033,48595524,drl issues,state/observation,2017,6981094
+49083999,50598296,not real drl,remove,2018,7580854
+49065222,49720172,dl issues,model,2018,3222850
+65222734,65250126,drl issues,comprehension,2020,146266
+65338120,65603866,drl library/framework,installation,2020,1772078
+65448313,65528519,dl issues,dl frameworks,2020,591196
+12411197,12785302,drl issues,comprehension,2012,2156780
+47491072,48086547,not real drl,remove,2017,3373234
+47494105,47499751,drl issues,comprehension,2017,39077
+47333240,47345857,drl issues,comprehension,2017,60101
+49547264,49551095,drl issues,comprehension,2018,19377
+49533349,49535450,drl issues,comprehension,2018,5823
+67177184,67346604,drl issues,design problem,2021,959443
+53039048,53041074,drl issues,comprehension,2018,10184
+48213366,48230960,drl issues,comprehension,2018,82980
+51223187,51224520,drl library/framework,api usage,2018,11011
+51221952,51232515,drl issues,comprehension,2018,99829
+17336069,17592020,drl issues,hyperparameters,2013,1226892
+51260136,51290479,drl issues,action,2018,117036
+44301591,44314007,drl issues,comprehension,2017,35780
+62008235,62074031,drl issues,reward,2020,267755
+62027289,62027399,drl issues,comprehension,2020,338
+51354107,51359267,drl issues,state/observation,2018,24659
+62022924,62025338,drl issues,comprehension,2020,7222
+62048441,62052686,dl issues,dl frameworks,2020,14749
+44381198,44419834,dl issues,model,2017,137146
+33573663,34069637,not real drl,remove,2015,2320110
+62088430,65472767,drl library/framework,api usage,2020,18367448
+44444923,44445077,other programming problems,,2017,638
+67466527,67482275,drl issues,comprehension,2021,85783
+67466527,67482275,drl library/framework,api usage,2021,85783
+62119988,62120163,other programming problems,,2020,741
+62126327,62225923,dl issues,dl frameworks,2020,413309
+65694416,65697986,drl library/framework,api usage,2021,24836
+65750675,65755566,other programming problems,,2021,30836
+49174342,49180318,parallel processing & multi threading,gpu usage,2018,18788
+65704854,65705017,drl library/framework,dependency,2021,647
+49801638,50574354,drl issues,comprehension,2018,3998323
+49801638,50574354,drl issues,reward,2018,3998323
+49822078,49823242,drl issues,comprehension,2018,5044
+49709397,49711238,drl issues,comprehension,2018,11885
+50393969,50473855,dl issues,model,2018,444855
+50397098,50397961,drl issues,reward,2018,3332
+50392231,50394582,drl issues,state/observation,2018,6709
+50444342,50452319,not real drl,remove,2018,28054
+62325794,62326661,other programming problems,,2020,2671
+50453490,50453833,other programming problems,,2018,1419
+44846312,44846510,drl issues,design problem,2017,791
+44874982,44876464,drl issues,comprehension,2017,15387
+50521650,50531389,not real drl,remove,2018,35067
+62529802,62530356,drl issues,action,2020,1920
+50557601,50557604,drl issues,comprehension,2018,16
+62629997,62630016,dl issues,dl frameworks,2020,255
+63010463,65597559,drl issues,design problem,2020,14626677
+45231492,45231995,drl issues,comprehension,2017,1530
+44936983,44937054,drl issues,comprehension,2017,355
+50676296,50676836,dl issues,dl frameworks,2018,1765
+27008226,27013761,drl issues,design problem,2014,24583
+45258655,45267307,drl issues,design problem,2017,73296
+63072770,63074078,dl issues,model,2020,4958
+45298898,45311515,drl issues,comprehension,2017,34958
+50627861,50663731,drl issues,design problem,2018,225490
+45271441,45295777,drl issues,comprehension,2017,105213
+50737705,50748029,drl issues,design problem,2018,32804
+50763983,50765510,dl issues,dl frameworks,2018,5917
+27059097,27061119,drl issues,design problem,2014,6415
+63097995,63098077,dl issues,data preprocessing,2020,617
+51626985,51635631,drl issues,comprehension,2018,26909
+63449098,63461290,not real drl,remove,2020,59442
+51693567,51693613,dl issues,model,2018,390
+51774091,51794321,dl issues,model,2018,95782
+51823506,51826088,other programming problems,,2018,8198
+51944199,51946609,dl issues,data preprocessing,2018,8648
+67517535,67530717,drl library/framework,documentation,2021,77018
+11072538,11300589,drl issues,design problem,2012,1313037
+46585392,46619783,drl issues,policy's loss,2017,171109
+17934171,17957003,drl issues,comprehension,2013,85229
+46979986,46995992,drl issues,design problem,2017,116656
+11693500,11699077,drl issues,comprehension,2012,46170
+11696990,11697030,drl issues,design problem,2012,406
+64704137,64858376,drl library/framework,documentation,2020,932105
+48573243,48601831,drl library/framework,api usage,2018,164119
+32216216,32216668,drl issues,comprehension,2015,3845
+47980012,48025703,dl issues,model,2017,267058
+52878679,52881846,drl issues,design problem,2018,13221
+32428237,32429142,drl issues,comprehension,2015,7820
+53540424,53540809,dl issues,model,2018,1326
+67762898,67762972,other programming problems,,2021,502
+53613722,53638579,drl issues,comprehension,2018,105595
+53622782,54250493,drl issues,comprehension,2018,3836707
+53727531,53765632,drl issues,design problem,2018,173824
+68227563,68244722,drl issues,environment,2021,162987
+53689861,53692878,other programming problems,,2018,26900
+53802453,53828462,drl issues,comprehension,2018,153591
+49193415,49197866,drl issues,comprehension,2018,15062
+53571945,53573022,drl issues,design problem,2018,7352
+53830617,53910502,other programming problems,,2018,509256
+65815598,65815968,dl issues,model,2021,1560
+66091558,66091868,drl issues,comprehension,2021,1868
+49234736,49244770,drl issues,comprehension,2018,34461
+49234736,49244770,dl issues,data preprocessing,2018,34461
+66308538,66599611,drl issues,comprehension,2021,1598004
+66306571,66306797,other programming problems,,2021,1428
+66335165,66640939,drl library/framework,dependency,2021,1727715
+66318564,66328885,drl issues,comprehension,2021,58209
+37190880,37208762,drl library/framework,best fitted library for a special task,2016,72828
+49319961,49320968,other programming problems,,2018,3309
+37409528,37451048,drl issues,comprehension,2016,151009
+37524472,37561698,drl issues,reward,2016,157388
+37401417,37402775,drl issues,comprehension,2016,9359
+70984103,71008828,drl issues,comprehension,2022,195141
+71168412,71187773,drl library/framework,api usage,2022,135484
+71040388,71041627,dl issues,dl frameworks,2022,7269
+71255967,71257059,other programming problems,,2022,5834
+71383828,71387643,not real drl,remove,2022,21012
+71459191,71459334,drl issues,comprehension,2022,1105
+54211391,54211628,drl issues,design problem,2019,1192
+68550901,68551308,parallel processing & multi threading,multiprocessing,2021,2278
+69650499,69654319,drl library/framework,api usage,2021,23838
+69593105,69600392,drl issues,reward,2021,64377
+55371106,55378798,drl issues,comprehension,2019,26235
+55410391,55421550,dl issues,dl frameworks,2019,43474
+54171713,54181309,drl issues,comprehension,2019,65055
+55381040,55387407,drl library/framework,installation,2019,24691
+55447787,55469731,drl issues,comprehension,2019,102635
+55545051,55548089,drl issues,comprehension,2019,32226
+55513605,55521710,drl issues,policy's loss,2019,24941
+72483775,72805349,drl library/framework,api usage,2022,2303816
+72501444,72510305,drl issues,comprehension,2022,95129
+72537702,72674552,drl issues,comprehension,2022,980866
+55000663,55042126,drl issues,comprehension,2019,174403
+72606664,72662783,other programming problems,,2022,345889
+55088497,55088705,drl issues,design problem,2019,1254
+72656770,72661341,drl issues,design problem,2022,21903
+69439942,69447489,dl issues,data preprocessing,2021,56479
+72995715,73168688,drl issues,comprehension,2022,1217725
+72998966,72999819,drl issues,reward,2022,6545
+73006909,73061481,drl library/framework,dependency,2022,386183
+73071399,73071554,dl issues,model,2022,1014
+73085950,73092322,drl library/framework,api usage,2022,69843
+73125049,73155407,drl issues,comprehension,2022,177147
+73152465,73152609,other programming problems,,2022,700
+73224528,73227073,drl issues,policy's loss,2022,13177
+73225230,73287689,dl issues,model,2022,482080
+55552366,55552531,drl issues,reward,2019,1232
+55579331,71902207,parallel processing & multi threading,multiprocessing,2019,95454447
+70015203,70027652,other programming problems,,2021,59956
+69927786,69933970,drl issues,comprehension,2021,28223
+55657268,55660613,drl issues,comprehension,2019,19816
+55747714,55747943,drl issues,comprehension,2019,746
+55741358,55741687,not real drl,remove,2019,1342
+70163823,70164895,drl issues,comprehension,2021,9579
+70171503,70226361,drl issues,comprehension,2021,342518
+70227150,70249243,drl issues,comprehension,2021,177528
+70282991,70283623,drl library/framework,api usage,2021,6103
+70314837,70314954,other programming problems,,2021,1049
+70309923,70324535,other programming problems,,2021,152645
+70432613,70492578,drl issues,state/observation,2021,513005
+70458347,70461278,other programming problems,,2021,17341
+71549439,71615541,drl library/framework,api usage,2022,404349
+71671716,71961729,drl library/framework,api usage,2022,1965863
+71584763,71611386,other programming problems,,2022,146268
+71807485,71807866,drl issues,design problem,2022,3500
+71901031,71902933,other programming problems,,2022,17067
+71970806,71970807,drl library/framework,api usage,2022,0
+72007160,72007195,drl issues,comprehension,2022,394
+72085601,72086078,not real drl,remove,2022,2772
+72221554,72222603,drl library/framework,dependency,2022,7664
+68353637,68762415,drl library/framework,api usage,2021,2669689
+66733298,66755169,drl library/framework,api usage,2021,119890
+57528770,57528913,dl issues,dl frameworks,2019,819
+57565249,57661285,other programming problems,,2019,575367
+63865496,63866284,dl issues,model,2020,9824
+68171714,68547157,drl issues,environment,2021,2465738
+57259497,57792036,dl issues,data preprocessing,2019,3187856
+57573540,57661499,drl library/framework,api usage,2019,532561
+70573735,70575851,drl library/framework,api usage,2022,18301
+59272939,59794351,other programming problems,,2019,3291879
+71937877,71945353,drl library/framework,api usage,2022,34038
+63656778,63737268,dl issues,dl frameworks,2020,421417
+70696295,70696407,drl library/framework,api usage,2022,471
+1656636,1660930,not real drl,remove,2009,101094
+52752976,53642526,not real drl,remove,2018,4820727
+51351598,51351856,drl library/framework,dependency,2018,1945
+4766084,4772643,not real drl,remove,2011,96348
+51224752,51225121,drl library/framework,api usage,2018,3005
+55836416,55920210,drl library/framework,problems inside framework,2019,494203
