@@ -1,6 +1,6 @@
 # Common Challenges of DRL Application Development
 Replication package of "Common Challenges in Development of Deep Reinforcement Learning Applications: An Empirical Study" paper.
-
+**data** directory includes the extracted and used data for this study. Also, a preview of the carried out survey exists in **survey** directory. 
 
 <br><br><br><br>
 
