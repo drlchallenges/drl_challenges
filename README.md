@@ -9,8 +9,7 @@ To extract DRL-related repositories, we used _'deep reinforcement learning'_ key
 `https://api.github.com/search/repositories?q=deep+reinforcement+learning+pushed:2020-01-01T00:00:00Z..2020-02-01T00:00:00Z&order=asc&per_page=100&page=1`  
 
 <br>
-# List of tags and keywords for extracting posts #
-
+## List of tags and keywords for extracting posts 
 ### List of tags ###    
 
 "reainforcement-learning" , "tensorflow-agents", "stable-baselines", "keras-rl", "rllib", "tensorboard", "q-learning", "deep-learning", "gym", "starcraftgym", "keras", "tensorflow", "pytorch", "openai-gym", "dqn".  
